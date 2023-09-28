@@ -1,3 +1,6 @@
+# acesse aqui o site para calcular seu IMC:
+https://calculadora-olv6cu2mi-sabrinasoaresdev.vercel.app/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
